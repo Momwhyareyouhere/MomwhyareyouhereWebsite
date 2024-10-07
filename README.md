@@ -4,6 +4,11 @@ MomwhyareyouhereWebsite is a package that allows you to host website.
 
 Pypi:[Pypi](<https://pypi.org/project/MomwhyareyouhereWebsite/>)
 
+To install run:
+```
+pip install MomwhyareyouhereWebsite
+```
+
 # Usage
 
 First insert the import:
